@@ -8,6 +8,9 @@
 - [Technologies used](#technologies-used)
 - [Data Analysis](#data-analysis)
 - [Features](#features)
+- [Visualization](#visualization)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
 
 
 ## Overview
@@ -58,10 +61,37 @@ print("Correlation Matrix:\n", correlation)
 ```
 
 ## Features
+- Heatmap to analyze the correlation between risk factors and health risk level.
+- Bar chart of risk distribution by Age Group.
+- Box plot of the relationship between (SystolicBP) and Risk Level
+
+## Visualization
+
+Heatmap to analyze the correlation between risk factors and health risk level.
+
+![Heat map](https://github.com/user-attachments/assets/fe84d8d0-f8a0-4dac-875d-64541fdabd93)
 
 
+Bar chart of risk distribution by Age Group.
+
+![Bar chart](https://github.com/user-attachments/assets/ae26ba72-fdf0-4d62-bc98-c0b987c35740)
 
 
+Box plot of the relationship between (SystolicBP) and Risk Level
+
+
+![Box plot](https://github.com/user-attachments/assets/1ac12892-05be-420b-ae1c-d418ecba9ec8)
+
+
+## Findings
+- There is a strong correlation between key factors (e.g., blood sugar, systolic BP) and maternal risk levels.
+- Certain age groups show a higher likelihood of being classified under high-risk levels.
+- High systolic readings are common in high-risk cases.
+- High blood sugar levels are more prevalent in higher maternal risk categories
+
+## Recommendations
+- Develop targeted health screening programs focusing on high-risk Age groups and physiological profiles.
+- Focused monitoring of high-risk individuals using key health indicators
 
 
 
