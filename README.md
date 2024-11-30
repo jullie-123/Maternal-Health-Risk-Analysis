@@ -4,7 +4,10 @@
 - [Overview](#overview)
 - [Data Sources](#data-sources)
 - [Data cleaning and preprocessing](#data-cleaning-and-preprocessing)
-- [EXP
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Technologies used](#technologies-used)
+- [Data Analysis](#data-analysis)
+- [Features](#features)
 
 
 ## Overview
